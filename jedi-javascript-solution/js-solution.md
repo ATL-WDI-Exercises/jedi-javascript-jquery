@@ -23,7 +23,7 @@ document.getElementById("container").childNodes[1].style.color = "red";
 - Change the length and/or color of a lightsaber (for Darth's saber):
 
 ```javascript 
-document.getElementsByClassName("blade")[0].style.width = "100px"
+document.getElementsByClassName("blade")[0].style.width = "100px";
 ```
 
 or 

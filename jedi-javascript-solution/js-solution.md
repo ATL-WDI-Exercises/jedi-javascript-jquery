@@ -5,7 +5,7 @@ Practice the things you learned today by modifying the Jedi Academy document in 
 - Make the Luke and Obiwan lightsabers appear in the browser
 
 ```javascript 
-document.getElementById('luke').style.display= "block"
+document.getElementById('luke').style.display= "block";
 ```
 
 - Change the text on the first 'p' tag
@@ -31,7 +31,7 @@ or
 ```javascript
 document.getElementsByClassName("blade")[0].setAttribute("id", "darth");
 
-document.getElementById("darth").style.width = "700px"
+document.getElementById("darth").style.width = "700px";
 ```
 
 - Change the font of a `p` tag

@@ -6,11 +6,11 @@ $(function(){
 
   $('h1').css("color", "blue");
 
-  $('.blade').first().css("width", "100px")
+  $('.blade').first().css("width", "100px");
 
-  $('p').first().css("font-family", "georgia")
+  $('p').first().css("font-family", "georgia");
 
-  $("#vader .handle").css("background-color", "blue")
+  $("#vader .handle").css("background-color", "blue");
 
 
-})
+});
